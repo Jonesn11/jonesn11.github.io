@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Noah Jones"
 title_separator          : "-"
 name                     : &name "Noah Jones"
 description              : &description "I'm a Ph.D Student at MIT advised by Rosalind Picard"
