@@ -10,7 +10,7 @@ redirect_from:
 
 Noah Jones is a second year Ph.D Student advised by Dr. Rosalind Picard.  His research interests are **causal modeling**, **digital phenotyping**, **conformal prediction**, and **transfer learning** for sequential modeling problems for mental wellbeing.  Noah is also passionate about **meta science** for improving the replicability, generalizability and predictive power of clinical science.
 
-Noah received his B.S in Neuroscience and Psychology (Pre-med) *magna cum laude* at Morehouse College and S.M in Computational Social Science at MIT.  In the past, I worked as a machine learning engineer for Rallypoint, research assistant for [Neurolex.AI](https://www.neurolex.ai/) and the [Department of Psychiatry](https://school.wakehealth.edu/departments/psychiatry-and-behavioral-medicine) at Wake Forest School of Medicine.
+Noah received his B.S in Neuroscience and Psychology (Pre-med) *magna cum laude* at Morehouse College and S.M in Computational Social Science at MIT.  In the past, he worked as a lead machine learning research engineer for [Rallypoint](https://www.rallypoint.com/), research assistant for [Neurolex.AI](https://www.neurolex.ai/) and the [Department of Psychiatry](https://school.wakehealth.edu/departments/psychiatry-and-behavioral-medicine) at Wake Forest School of Medicine.
 
 Alternative section 1
 ======
