@@ -13,5 +13,5 @@ Noah Jones is a second year Ph.D Student advised by Dr. Rosalind Picard.  His re
 Noah received an S.M in Computational Social Science at MIT.  In the past, he worked as a lead machine learning engineer for [Rallypoint](https://www.rallypoint.com/), research assistant for [Neurolex.AI](https://www.neurolex.ai/) and lab manager in the [Department of Psychiatry](https://school.wakehealth.edu/departments/psychiatry-and-behavioral-medicine) at Wake Forest School of Medicine.
 
 Featured Publications
-============
+---------------------
 
