@@ -15,6 +15,7 @@ Noah received an S.M in Computational Social Science at MIT.  In the past, he wo
 Featured Publications
 ---------------------
 
-**Noah Jones**, Elizabeth Healey, Sabrina Zhai, Ming-Chieh Shih, Sanjat Khalilal, Rosalind Picard 
+**Jones N.**, Healey E., Zhai S., Shih M., Khalilal S., Sontag D.
+
 Treatment efficacy and adverse effect profile of first-line treatments versus alternative antibiotics in patients with uncomplicated urinary tract infection: A retrospective cohort study using machine learning with causal inference, *Journal of the American Medical Association*, (July 2022) Submitted for Review
 
