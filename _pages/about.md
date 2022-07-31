@@ -15,7 +15,5 @@ Noah received an S.M in Computational Social Science at MIT.  In the past, he wo
 Featured Publications
 ---------------------
 
-**Jones N.**, Healey E., Zhai S., Shih M., Khalilal S., Sontag D.
-
-Treatment Efficacy and Adverse Effect Profile of First-line Treatments versus Alternative Antibiotics in Patients with Uncomplicated Urinary Tract Infection: A Retrospective Cohort Study Using Machine Learning with Causal Inference (2022), *Journal of the American Medical Association*, (Submitted for Review July 2022)
+**Jones N.**, Healey E., Zhai S., Shih M., Khalilal S., Sontag D., Treatment Efficacy and Adverse Effect Profile of First-line Treatments versus Alternative Antibiotics in Patients with Uncomplicated Urinary Tract Infection: A Retrospective Cohort Study Using Machine Learning with Causal Inference (2022), *Journal of the American Medical Association*, (Submitted for Review July 2022)
 
