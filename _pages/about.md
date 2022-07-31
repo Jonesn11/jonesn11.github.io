@@ -17,5 +17,5 @@ Featured Publications
 
 **Jones N.**, Healey E., Zhai S., Shih M., Khalilal S., Sontag D.
 
-Treatment efficacy and adverse effect profile of first-line treatments versus alternative antibiotics in patients with uncomplicated urinary tract infection: A retrospective cohort study using machine learning with causal inference, *Journal of the American Medical Association*, (July 2022) Submitted for Review
+Treatment Efficacy and Adverse Effect Profile of First-line Treatments versus Alternative Antibiotics in Patients with Uncomplicated Urinary Tract Infection: A Retrospective Cohort Study Using Machine Learning with Causal Inference (2022), *Journal of the American Medical Association*, (Submitted for Review July 2022)
 
