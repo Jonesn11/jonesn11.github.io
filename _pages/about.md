@@ -16,5 +16,5 @@ Featured Publications
 ---------------------
 
 **Noah Jones**, Elizabeth Healey, Sabrina Zhai, Ming-Chieh Shih, Sanjat Khalilal, Rosalind Picard 
-Treatment efficacy and adverse effect profile of first-line treatments versus alternative antibiotics in patients with uncomplicated urinary tract infection: A retrospective cohort study using machine learning with causal inference, *Journal of the American Medical Association *, Submitted for Review
+Treatment efficacy and adverse effect profile of first-line treatments versus alternative antibiotics in patients with uncomplicated urinary tract infection: A retrospective cohort study using machine learning with causal inference, *Journal of the American Medical Association*, (July 2022) Submitted for Review
 
