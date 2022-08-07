@@ -1,10 +1,13 @@
+remove the old, parathenses and spaces from cv
+
+
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CV (old)"
+permalink: /cv (old)/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume (old)
 ---
 
 {% include base_path %}
